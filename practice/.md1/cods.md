@@ -1,6 +1,5 @@
 код 1 задания:
-
-fun main() {
+  fun main() {
     val name: String = "Анна"
     val age: Int = 25
     val height: Double = 1.75
@@ -15,7 +14,7 @@ fun main() {
 
 код 2 задания:
 
-fun main() {
+  fun main() {
     print("Ширина: ")
     val w = 5.0
 
@@ -32,7 +31,7 @@ fun main() {
 
 код 3 задания:
 
-fun main() {
+  fun main() {
     print("Градусы Цельсия: ")
     val c = 25.0
 
@@ -45,7 +44,7 @@ fun main() {
 
 код 4 задания:
 
-fun main() {
+  fun main() {
     print("Ваш возраст: ")
     val age: Int? = 20
 
@@ -61,7 +60,7 @@ fun main() {
 
 код 5 заадния:
 
-fun main() {
+  fun main() {
     print("Числа через пробел: ")
     val nums = "10 20 30"
         .trim()
@@ -78,7 +77,7 @@ fun main() {
 
 код 6 задания:
 
-fun main() {
+  fun main() {
     print("Товар: ")
     val title = "Телефон"
 
@@ -92,4 +91,4 @@ fun main() {
         |$title$dots$priceStr
     """.trimMargin())
 }
-![Скриншот отработки 6 задания](screenshots/code6.png)
+![Скриншот отработки 6 посленего задания](screenshots/code6.png)
